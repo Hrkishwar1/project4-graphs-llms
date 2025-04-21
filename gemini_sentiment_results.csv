@@ -1,0 +1,6 @@
+text,gemini_sentiment
+"I love this product, it's amazing!",Positive
+This is the worst experience I've ever had.,Negative
+"It's okay, not great but not terrible either.",Neutral
+Absolutely fantastic! Highly recommend it.,Positive
+"I wouldn't buy this again, very disappointing.",Negative

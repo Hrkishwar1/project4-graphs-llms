@@ -1,0 +1,26 @@
+Source,Target,Weight
+SpongeBob,Patrick,15
+SpongeBob,Squidward,10
+SpongeBob,Mr. Krabs,12
+Patrick,Squidward,6
+SpongeBob,Sandy,8
+SpongeBob,Plankton,5
+Patrick,Sandy,4
+Squidward,Mr. Krabs,7
+Sandy,Mr. Krabs,3
+Plankton,Karen,10
+Sandy,Plankton,2
+Squidward,Plankton,1
+SpongeBob,Gary,6
+Patrick,Gary,3
+Mr. Krabs,Plankton,9
+Karen,SpongeBob,2
+Sandy,Gary,2
+Mr. Krabs,Karen,1
+Squidward,Gary,2
+Sandy,Karen,1
+Patrick,Mr. Krabs,4
+Squidward,Sandy,3
+Gary,Plankton,1
+SpongeBob,Patrick,3
+Karen,Patrick,1
